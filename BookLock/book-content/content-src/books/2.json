@@ -1,0 +1,153 @@
+{
+  "id": 2,
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "genre": "Wit and manners",
+  "contentVersion": 1,
+  "chapters": [
+    {
+      "id": 2001,
+      "ordinal": 1,
+      "title": "Laying Plans",
+      "wordCount": 612,
+      "content": "Sun Tzu said: The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.\n\nThe art of war is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. These are: the Moral Law; Heaven; Earth; the Commander; Method and discipline.\n\nThe Moral Law causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger. Heaven signifies night and day, cold and heat, times and seasons. Earth comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death. The Commander stands for the virtues of wisdom, sincerity, benevolence, courage and strictness. By Method and discipline are to be understood the marshalling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.\n\nThese five heads should be familiar to every general: he who knows them will be victorious; he who knows them not will fail.\n\nAll warfare is based on deception. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near. Hold out baits to entice the enemy. Feign disorder, and crush him.\n\nIf he is secure at all points, be prepared for him. If he is in superior strength, evade him. If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest. If his forces are united, separate them. Attack him where he is unprepared, appear where you are not expected.\n\nThese military devices, leading to victory, must not be divulged beforehand.\n\nNow the general who wins a battle makes many calculations in his temple ere the battle is fought. The general who loses a battle makes but few calculations beforehand. Thus do many calculations lead to victory, and few calculations to defeat.",
+      "questions": [
+        {
+          "id": 200101,
+          "ordinal": 1,
+          "prompt": "What does Sun Tzu say the Moral Law achieves?",
+          "options": [
+            "It makes the people follow their ruler regardless of danger",
+            "It ensures supplies reach the army on time",
+            "It determines which seasons favour an attack",
+            "It establishes the ranks among officers"
+          ],
+          "correctIndex": 0,
+          "explanation": "The Moral Law puts the people in accord with their ruler, so they follow him undismayed by any danger."
+        },
+        {
+          "id": 200102,
+          "ordinal": 2,
+          "prompt": "How should you treat an opponent of choleric temper?",
+          "options": [
+            "Evade him until he tires",
+            "Seek to irritate him",
+            "Offer generous terms",
+            "Attack his supply lines first"
+          ],
+          "correctIndex": 1,
+          "explanation": "Anger clouds judgement, so Sun Tzu advises provoking a hot-tempered opponent rather than avoiding him."
+        },
+        {
+          "id": 200103,
+          "ordinal": 3,
+          "prompt": "Where does Sun Tzu say the winning general makes his calculations?",
+          "options": [
+            "On the march",
+            "In his temple, before the battle",
+            "In council with his officers",
+            "At the moment of engagement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Victory is decided by the many calculations made in the temple before fighting begins; few calculations lead to defeat."
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "ordinal": 2,
+      "title": "Waging War",
+      "wordCount": 587,
+      "content": "Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armour, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of a hundred thousand men.\n\nWhen you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardour will be damped. If you lay siege to a town, you will exhaust your strength. Again, if the campaign is protracted, the resources of the State will not be equal to the strain.\n\nNow, when your weapons are dulled, your ardour damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue.\n\nThus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays. There is no instance of a country having benefited from prolonged warfare.\n\nIt is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on.\n\nThe skilful soldier does not raise a second levy, neither are his supply-wagons loaded more than twice. Bring war material with you from home, but forage on the enemy. Thus the army will have food enough for its needs.\n\nPoverty of the State's resources causes an army to be maintained by contributions from a distance. Contributing to maintain an army at a distance causes the people to be impoverished.\n\nHence a wise general makes a point of foraging on the enemy. One cartload of the enemy's provisions is equivalent to twenty of one's own, and likewise a single picul of his provender is equivalent to twenty from one's own store.\n\nIn war, then, let your great object be victory, not lengthy campaigns.\n\nThus it may be known that the leader of armies is the arbiter of the people's fate, the man on whom it depends whether the nation shall be in peace or in peril.",
+      "questions": [
+        {
+          "id": 200201,
+          "ordinal": 1,
+          "prompt": "What happens when a campaign is protracted?",
+          "options": [
+            "The enemy grows careless",
+            "The State's resources cannot bear the strain",
+            "Discipline improves through experience",
+            "Allies are more likely to join"
+          ],
+          "correctIndex": 1,
+          "explanation": "Weapons dull, ardour fades, and the State's resources prove unequal to the strain — inviting other chieftains to exploit the weakness."
+        },
+        {
+          "id": 200202,
+          "ordinal": 2,
+          "prompt": "Why does Sun Tzu advise foraging on the enemy?",
+          "options": [
+            "It demoralises the enemy population",
+            "One cartload of theirs is worth twenty of your own",
+            "It avoids the need for a second levy of troops",
+            "It keeps the army moving faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "Supplying from home impoverishes the people, whereas captured provisions are worth twenty times the equivalent brought from your own stores."
+        },
+        {
+          "id": 200203,
+          "ordinal": 3,
+          "prompt": "Who does Sun Tzu call the arbiter of the people's fate?",
+          "options": [
+            "The ruler",
+            "The leader of armies",
+            "The quartermaster",
+            "The council of officers"
+          ],
+          "correctIndex": 1,
+          "explanation": "The general holds the nation's peace or peril in his hands — which is why understanding war's costs matters so much."
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "ordinal": 3,
+      "title": "Attack by Stratagem",
+      "wordCount": 634,
+      "content": "Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy is not so good. So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them.\n\nHence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.\n\nThus the highest form of generalship is to balk the enemy's plans; the next best is to prevent the junction of the enemy's forces; the next in order is to attack the enemy's army in the field; and the worst policy of all is to besiege walled cities.\n\nThe rule is, not to besiege walled cities if it can possibly be avoided. The preparation of mantlets, movable shelters, and various implements of war, will take up three whole months; and the piling up of mounds over against the walls will take three months more.\n\nThe skilful leader subdues the enemy's troops without any fighting; he captures their cities without laying siege to them; he overthrows their kingdom without lengthy operations in the field.\n\nWith his forces intact he will dispute the mastery of the Empire, and thus, without losing a man, his triumph will be complete. This is the method of attacking by stratagem.\n\nIt is the rule in war, if our forces are ten to the enemy's one, to surround him; if five to one, to attack him; if twice as numerous, to divide our army into two. If equally matched, we can offer battle; if slightly inferior in numbers, we can avoid the enemy; if quite unequal in every way, we can flee from him.\n\nThough an obstinate fight may be made by a small force, in the end it must be captured by the larger force.\n\nThere are three ways in which a ruler can bring misfortune upon his army: by commanding the army to advance or retreat, being ignorant of whether it can obey; by attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army; and by employing the officers of his army without discrimination.\n\nThus we may know that there are five essentials for victory: he will win who knows when to fight and when not to fight; he will win who knows how to handle both superior and inferior forces; he will win whose army is animated by the same spirit throughout all its ranks; he will win who, prepared himself, waits to take the enemy unprepared; he will win who has military capacity and is not interfered with by the sovereign.\n\nIf you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.",
+      "questions": [
+        {
+          "id": 200301,
+          "ordinal": 1,
+          "prompt": "What does Sun Tzu call supreme excellence in war?",
+          "options": [
+            "Winning every battle you fight",
+            "Breaking the enemy's resistance without fighting",
+            "Capturing walled cities quickly",
+            "Destroying the enemy's army entirely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fighting and conquering in every battle is only good; the highest achievement is subduing the enemy without combat at all."
+        },
+        {
+          "id": 200302,
+          "ordinal": 2,
+          "prompt": "Why does he call besieging walled cities the worst policy?",
+          "options": [
+            "The defenders fight more fiercely",
+            "It takes six months of preparation and mound-building",
+            "It requires ten times the enemy's numbers",
+            "Captured cities are rarely worth holding"
+          ],
+          "correctIndex": 1,
+          "explanation": "Three months for shelters and implements, then three more for the mounds — an enormous cost before any fighting begins."
+        },
+        {
+          "id": 200303,
+          "ordinal": 3,
+          "prompt": "What happens if you know yourself but not the enemy?",
+          "options": [
+            "You will succumb in every battle",
+            "For every victory you will also suffer a defeat",
+            "You need not fear a hundred battles",
+            "You will win only defensive engagements"
+          ],
+          "correctIndex": 1,
+          "explanation": "Half the knowledge gives half the result — victories alternating with defeats, rather than the confidence that comes from knowing both."
+        }
+      ]
+    }
+  ]
+}
