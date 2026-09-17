@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": 2,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "Wit and manners",
+      "contentVersion": 1,
+      "chapterCount": 3,
+      "hoursCount": 1
+    }
+  ]
+}
