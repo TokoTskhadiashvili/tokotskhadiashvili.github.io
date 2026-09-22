@@ -2,6 +2,15 @@
   "version": 1,
   "books": [
     {
+      "id": 1,
+      "title": "Candide",
+      "author": "Voltaire",
+      "genre": "Wit and manners",
+      "contentVersion": 1,
+      "chapterCount": 38,
+      "hoursCount": 3
+    },
+    {
       "id": 2,
       "title": "The Art of War",
       "author": "Sun Tzu",
