@@ -1,5 +1,8 @@
 {
   "version": 1,
+  "policyVersion": 1,
+  "termsUrl": "https://booklockfyb.com/terms",
+  "privacyUrl": "https://booklockfyb.com/privacy",
   "books": [
     {
       "id": 1,
