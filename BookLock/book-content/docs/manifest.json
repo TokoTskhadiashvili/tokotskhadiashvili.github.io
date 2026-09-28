@@ -12,24 +12,6 @@
       "contentVersion": 1,
       "chapterCount": 38,
       "hoursCount": 3
-    },
-    {
-      "id": 2,
-      "title": "The Art of War",
-      "author": "Sun Tzu",
-      "genre": "Wit and manners",
-      "contentVersion": 1,
-      "chapterCount": 3,
-      "hoursCount": 1
-    },
-    {
-      "id": 3,
-      "title": "The Adventures of Tom Sawyer",
-      "author": "Mark Twain",
-      "genre": "Fiction",
-      "contentVersion": 1,
-      "chapterCount": 77,
-      "hoursCount": 5
     }
   ]
 }
