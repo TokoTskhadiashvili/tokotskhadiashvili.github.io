@@ -1,17 +1,32 @@
 {
   "version": 1,
-  "policyVersion": 1,
-  "termsUrl": "https://booklockfyb.com/terms",
-  "privacyUrl": "https://booklockfyb.com/privacy",
   "books": [
     {
       "id": 1,
       "title": "Candide",
       "author": "Voltaire",
       "genre": "Wit and manners",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "chapterCount": 38,
-      "hoursCount": 3
+      "hoursCount": 2
+    },
+    {
+      "id": 2,
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "genre": "Adventure at sea",
+      "contentVersion": 1,
+      "chapterCount": 72,
+      "hoursCount": 5
+    },
+    {
+      "id": 3,
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "genre": "Fiction",
+      "contentVersion": 1,
+      "chapterCount": 77,
+      "hoursCount": 5
     }
   ]
 }
