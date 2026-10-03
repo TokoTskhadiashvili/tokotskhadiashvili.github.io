@@ -27,6 +27,69 @@
       "contentVersion": 1,
       "chapterCount": 77,
       "hoursCount": 5
+    },
+    {
+      "id": 4,
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "genre": "Adventure at sea",
+      "contentVersion": 1,
+      "chapterCount": 87,
+      "hoursCount": 6
+    },
+    {
+      "id": 5,
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "genre": "Gothic and haunted",
+      "contentVersion": 1,
+      "chapterCount": 35,
+      "hoursCount": 2
+    },
+    {
+      "id": 6,
+      "title": "The Island of Doctor Moreau",
+      "author": "H. G. Wells",
+      "genre": "Gothic and haunted",
+      "contentVersion": 1,
+      "chapterCount": 47,
+      "hoursCount": 3
+    },
+    {
+      "id": 7,
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "genre": "Adventure at sea",
+      "contentVersion": 1,
+      "chapterCount": 67,
+      "hoursCount": 5
+    },
+    {
+      "id": 8,
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "genre": "Adventure at sea",
+      "contentVersion": 1,
+      "chapterCount": 73,
+      "hoursCount": 5
+    },
+    {
+      "id": 9,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Wit and manners",
+      "contentVersion": 1,
+      "chapterCount": 135,
+      "hoursCount": 9
+    },
+    {
+      "id": 10,
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "genre": "Wit and manners",
+      "contentVersion": 1,
+      "chapterCount": 129,
+      "hoursCount": 9
     }
   ]
 }
